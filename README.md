@@ -18,7 +18,7 @@ All rendering, game logic, and timing are handled directly in assembly, emphasiz
 
 | Gameplay | Game Over |
 |----------|-----------|
-| ![Gameplay](images/gameplay.png) | ![Game Over](images/gameover.png) |
+| ![Gameplay](Images/gameplay.png) | ![Game Over](Images/gameover.png) |
 
 ---
 
